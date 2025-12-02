@@ -1,7 +1,4 @@
-[00:00:00.457] Server  WARN     ⚠ Minimum recommended TypeScript version is v5.1.0, older versions can potentially be incompatible with Next.js. Detected: 4.9.5
-[00:00:00.545] Server  LOG      ✓ Ready in 408ms
-[00:00:05.235] Browser WARN    Image with src "/desk.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:00:01.832] Server  WARN     ⚠ Minimum recommended TypeScript version is v5.1.0, older versions can potentially be incompatible with Next.js. Detected: 4.9.5
+[00:00:01.887] Server  LOG      ✓ Ready in 1744ms
+[00:00:03.890] Browser WARN    Image with src "/desk.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:00:36.268] Browser WARN    Image with src "/desk.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:01:03.981] Server  LOG      ✓ Compiled in 35ms
