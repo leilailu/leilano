@@ -1,6 +1,4 @@
-# leila.no
-
-TODO update readme from template
+# Blog with Comment
 
 This project adds commenting functionality to [Next.js blog application](https://github.com/vercel/next.js/tree/canary/examples/blog) using Upstash and Auth0.
 

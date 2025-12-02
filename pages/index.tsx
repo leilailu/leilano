@@ -16,7 +16,7 @@ function HomePage() {
             portfolio.
           </p>
 
-          <p>Thank you Martin for helping me with initial commit</p>
+          <p>Deploy your own in a few minutes.</p>
         </div>
       </Container>
 
