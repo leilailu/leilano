@@ -27,14 +27,14 @@ function HomePage() {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h1", {
                             className: "text-2xl font-bold",
-                            children: "Hey, I'm a Senior Software Engineer at Company. I enjoy working with Next.js and crafting beautiful front-end experiences."
+                            children: "Hei! Jeg er i ferd med å fullføre bachelor graden min i kognitiv vitenskap. Dette er mitt nåværende prosjekt"
                         }, void 0, false, {
                             fileName: "[project]/pages/index.tsx",
                             lineNumber: 9,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
-                            children: "This portfolio is built with Next.js and a library called next-mdx. It allows you to write Markdown and focus on the content of your portfolio."
+                            children: "Denne porteføljen er bygget med Next.js og et bibliotek kalt next-mdx. Den lar meg skrive Markdown og fokusere på innholdet i porteføljen min."
                         }, void 0, false, {
                             fileName: "[project]/pages/index.tsx",
                             lineNumber: 13,

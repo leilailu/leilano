@@ -97,8 +97,8 @@ var __TURBOPACK__imported__module__$5b$externals$5d2f40$auth0$2f$auth0$2d$react_
 ;
 function MyApp({ Component, pageProps }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$externals$5d2f40$auth0$2f$auth0$2d$react__$5b$external$5d$__$2840$auth0$2f$auth0$2d$react$2c$__cjs$29$__["Auth0Provider"], {
-        clientId: process.env.NEXT_PUBLIC_AUTH0_CLIENT_ID,
-        domain: process.env.NEXT_PUBLIC_AUTH0_DOMAIN,
+        clientId: ("TURBOPACK compile-time value", "XXZjpZCIBg3bEjdKDpiKGZdSuMM53PLu"),
+        domain: ("TURBOPACK compile-time value", "dev-d2qyorz5oeakvx54.us.auth0.com"),
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$head$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
                 children: [
