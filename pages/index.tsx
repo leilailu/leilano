@@ -7,11 +7,15 @@ function HomePage() {
       <Container>
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
-            Hei! Jeg er i ferd med å fullføre bachelor graden min i kognitiv
-            vitenskap. Dette er mitt nåværende prosjekt
+            Bevis på at jeg kan mer enn å skrive søknader
           </h1>
+          
+          <p className="text-lg text-gray-600 italic">
+            PS: Jeg lover å være minst like flink som denne porteføljen antyder.
+          </p>
+          
           <p>
-            Web-utvikler, student, barista, kodelærer, pleieassistent, din neste
+            Web-utvikler, mentor, barista, kodelærer, pleieassistent, din neste
             suksesshistorie, you name it.
           </p>
 

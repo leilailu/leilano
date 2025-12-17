@@ -11,3 +11,7 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [00:18:19.127] Server  LOG      ✓ Compiled in 126ms
 [00:22:38.808] Server  LOG      ✓ Compiled in 22ms
 [00:23:12.673] Server  LOG      ✓ Compiled in 22ms
+[00:24:10.513] Browser WARN    Image with src "/desk.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:34:47.972] Server  LOG      ✓ Compiled in 127ms
+[00:37:51.122] Server  LOG      ✓ Compiled in 144ms

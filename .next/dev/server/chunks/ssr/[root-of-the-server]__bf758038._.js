@@ -27,24 +27,32 @@ function HomePage() {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h1", {
                             className: "text-2xl font-bold",
-                            children: "Hei! Jeg er i ferd med å fullføre bachelor graden min i kognitiv vitenskap. Dette er mitt nåværende prosjekt"
+                            children: "Bevis på at jeg kan mer enn å skrive søknader"
                         }, void 0, false, {
                             fileName: "[project]/pages/index.tsx",
                             lineNumber: 9,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
-                            children: "Denne porteføljen er bygget med Next.js og et bibliotek kalt next-mdx. Den lar meg skrive Markdown og fokusere på innholdet i porteføljen min."
+                            className: "text-lg text-gray-600 italic",
+                            children: "PS: Jeg lover å være minst like flink som denne porteføljen antyder."
                         }, void 0, false, {
                             fileName: "[project]/pages/index.tsx",
                             lineNumber: 13,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
-                            children: "Web-utvikler, student, barista, kodelærer, pleieassistent, din neste suksesshistorie, you name it."
+                            children: "Web-utvikler, mentor, barista, kodelærer, pleieassistent, din neste suksesshistorie, you name it."
                         }, void 0, false, {
                             fileName: "[project]/pages/index.tsx",
-                            lineNumber: 19,
+                            lineNumber: 17,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
+                            children: "Denne porteføljen er bygget med Next.js og et bibliotek kalt next-mdx. Den lar meg skrive Markdown og fokusere på innholdet i porteføljen min."
+                        }, void 0, false, {
+                            fileName: "[project]/pages/index.tsx",
+                            lineNumber: 22,
                             columnNumber: 11
                         }, this)
                     ]
@@ -67,12 +75,12 @@ function HomePage() {
                     height: 1280 / 2
                 }, void 0, false, {
                     fileName: "[project]/pages/index.tsx",
-                    lineNumber: 24,
+                    lineNumber: 31,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/pages/index.tsx",
-                lineNumber: 23,
+                lineNumber: 30,
                 columnNumber: 7
             }, this)
         ]
