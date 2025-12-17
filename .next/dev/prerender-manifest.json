@@ -1,1 +1,11 @@
-{"version":4,"routes":{"/posts/long-expected-party":{},"/posts/passing-of-grey-company":{},"/posts/prancing-pony":{},"/posts/riders-of-rohan":{}},"dynamicRoutes":{"/posts/[slug]":{"dataRoute":null,"dataRouteRegex":null,"fallback":false,"fallbackRevalidate":false,"fallbackSourceRoute":"/posts/[slug]","routeRegex":"^\\/posts\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"f7c91c785594d323d3d6ec5e0b25a8ee","previewModeSigningKey":"b2eeaaf57c9389020aec5e7f2870bcdf9da403413e6a2ba6ad960923009c26aa","previewModeEncryptionKey":"ec0500f82690d5213d2df430c8e0fd11b41cb4a773d63b944cd8747f3c1f61cc"}}
+{
+  "version": 4,
+  "routes": {},
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "34ce077d5a1d296ab6dc2d2d542d82f5",
+    "previewModeSigningKey": "01654dac22b0c11cc23f2f319b7f013e02ac7060eb7e2f08e6a97deea97d160d",
+    "previewModeEncryptionKey": "7983f4467ba1b7e534cd5d9fc04e29754761e9133a95fa897ea1074dd8f9ad34"
+  }
+}

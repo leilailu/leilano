@@ -1,15 +1,4 @@
-[00:00:00.622] Server  WARN     ⚠ Minimum recommended TypeScript version is v5.1.0, older versions can potentially be incompatible with Next.js. Detected: 4.9.5
-[00:00:00.723] Server  LOG      ✓ Ready in 506ms
-[00:00:46.625] Browser WARN    Image with src "/desk.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:00:00.626] Server  WARN     ⚠ Minimum recommended TypeScript version is v5.1.0, older versions can potentially be incompatible with Next.js. Detected: 4.9.5
+[00:00:00.727] Server  LOG      ✓ Ready in 502ms
+[00:00:11.080] Browser WARN    Image with src "/desk.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:00:50.669] Server  ERROR   Warning: A title element received an array with more than 1 element as children. In browsers title Elements can only have Text Nodes as children. If the children being rendered output more than a single text node in aggregate the browser will display markup and comments as text in the title and hydration will likely fail and fall back to client rendering
-    at title
-    at head
-    at Head (/Users/leilalu/Documents/leila.no/node_modules/next/src/pages/_document.tsx:372:8)
-    at html
-    at Html (/Users/leilalu/Documents/leila.no/node_modules/next/src/pages/_document.tsx:932:19)
-    at Document
-[00:02:13.858] Server  LOG      ✓ Compiled in 82ms
-[00:02:15.930] Browser WARN    Image with src "/desk.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:04:59.618] Server  LOG      ✓ Compiled in 74ms
