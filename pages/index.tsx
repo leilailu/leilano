@@ -11,12 +11,15 @@ function HomePage() {
             vitenskap. Dette er mitt nåværende prosjekt
           </h1>
           <p>
+            Web-utvikler, student, barista, kodelærer, pleieassistent, din neste
+            suksesshistorie, you name it.
+          </p>
+
+          <p>
             Denne porteføljen er bygget med Next.js og et bibliotek kalt
             next-mdx. Den lar meg skrive Markdown og fokusere på innholdet i
             porteføljen min.
           </p>
-
-          <p>Thank you Martin for helping me with initial commit</p>
         </div>
       </Container>
 
