@@ -96,7 +96,7 @@ export default function Home() {
 
       <footer className="bg-sage-800 text-white mt-20 py-10">
         <div className="container mx-auto px-6 text-center">
-          <p className="text-sage-300">© 2023 Leila.no</p>
+          <p className="text-sage-300">© 2025 Leila.no</p>
         </div>
       </footer>
     </div>

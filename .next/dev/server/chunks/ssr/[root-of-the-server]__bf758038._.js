@@ -205,7 +205,7 @@ function Home() {
                     className: "container mx-auto px-6 text-center",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
                         className: "text-sage-300",
-                        children: "© 2023 Leila.no"
+                        children: "© 2025 Leila.no"
                     }, void 0, false, {
                         fileName: "[project]/pages/index.tsx",
                         lineNumber: 99,
