@@ -1,1 +1,11 @@
-{"version":4,"routes":{"/posts/arbeidslivet":{},"/posts/fritid":{},"/posts/prosjekter":{},"/posts/studielivet":{}},"dynamicRoutes":{"/posts/[slug]":{"dataRoute":null,"dataRouteRegex":null,"fallback":false,"fallbackRevalidate":false,"fallbackSourceRoute":"/posts/[slug]","routeRegex":"^\\/posts\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"f26a1a3c8a8597d51d1b58ca452aaa81","previewModeSigningKey":"924403823677db468b11a101b8cca059f7b83637967bf1648ddde652925bffb6","previewModeEncryptionKey":"84d775fe3e0f857aa9a485910e845e6e29527911d8239a641fee444c46ceebfb"}}
+{
+  "version": 4,
+  "routes": {},
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "0b233b848edd00bebabb66d4b3fccc25",
+    "previewModeSigningKey": "25d6875df09bc689c46df36620413a96e41bc1a9404185ea1676a57df0a12616",
+    "previewModeEncryptionKey": "28639f41443b41b68fc3cff84f80832aeaede2062b55f8eefa6a5a6ede3c5905"
+  }
+}
