@@ -1,7 +1,8 @@
 ---
 title: "Prosjekter"
 excerpt: "Tidskrevende tidsfordriv"
-date: "2023-01-22"
+date: "2026-01-03"
 ---
 
-TBC
+Vel, dette er mitt første selvstendige prosjekt! Startet under eksamensperioden, men fullførte den i juleferien. 
+Ville lære litt mer om databaser og systemutvikling før jeg tar det som fag neste semester. Det tok lenger tid å få opp nettsiden enn jeg trodde, men det gikk!

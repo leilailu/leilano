@@ -44,7 +44,7 @@ export default function PostPage({
             />
           </article>
 
-          <Comment />
+          {/* <Comment /> */} {/* KOMMENTERT UT - LEGG TILBAKE NÅR API/COMMENT ER FIKSET */}
         </div>
       )}
     </Container>
