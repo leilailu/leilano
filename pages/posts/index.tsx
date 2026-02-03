@@ -8,27 +8,48 @@ export default function NotePage({
   allPosts,
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
-    <Container>
-      {allPosts.length ? (
-        allPosts.map((post) => (
-          <article key={post.slug} className="mb-10">
-            <Link
-              as={`/posts/${post.slug}`}
-              href="/posts/[slug]"
-              className="text-lg leading-6 font-bold"
-            >
-              {post.title}
-            </Link>
-            <p>{post.excerpt}</p>
-            <div className="text-gray-400">
-              <time>{distanceToNow(new Date(post.date))}</time>
+    <div className="min-h-screen bg-sage-50">
+      {/* INGEN <Header /> her - den kommer automatisk fra _app.tsx */}
+      
+      <Container>
+        <div className="py-16">
+          <h1 className="text-4xl font-bold text-sage-800 mb-10">Min reise</h1>
+          
+          {allPosts.length ? (
+            <div className="space-y-8">
+              {allPosts.map((post) => (
+                <article 
+                  key={post.slug} 
+                  className="bg-white p-6 rounded-xl shadow-soft border border-sage-200 hover:shadow-medium transition duration-300"
+                >
+                  <Link
+                    as={`/posts/${post.slug}`}
+                    href="/posts/[slug]"
+                    className="text-xl leading-6 font-bold text-sage-700 hover:text-sage-800"
+                  >
+                    {post.title}
+                  </Link>
+                  <p className="text-neutral-600 mt-2">{post.excerpt}</p>
+                  <div className="text-neutral-400 mt-3">
+                    <time>{distanceToNow(new Date(post.date))}</time>
+                  </div>
+                </article>
+              ))}
             </div>
-          </article>
-        ))
-      ) : (
-        <p>No blog posted yet :/</p>
-      )}
-    </Container>
+          ) : (
+            <div className="bg-white p-8 rounded-xl border border-sage-200">
+              <p className="text-neutral-600">Ingen blogginnlegg enda :/</p>
+            </div>
+          )}
+        </div>
+      </Container>
+      
+      <footer className="mt-20 py-8 border-t border-sage-200 bg-white">
+        <Container>
+          <p className="text-center text-neutral-500">© Leila.no</p>
+        </Container>
+      </footer>
+    </div>
   );
 }
 

@@ -553,7 +553,7 @@ function Home() {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                 className: "text-3xl font-bold text-sage-900 mb-6 text-center font-serif",
-                                children: "Web-utvikler, mentor, barista, kodelærer, pleieassistent, din neste suksesshistorie, you name it"
+                                children: "Mentor, barista, kodelærer, pleieassistent, din neste suksesshistorie, you name it"
                             }, void 0, false, {
                                 fileName: "[project]/pages/index.tsx",
                                 lineNumber: 39,

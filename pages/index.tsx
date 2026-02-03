@@ -37,7 +37,7 @@ export default function Home() {
         {/* Aksent seksjon */}
         <div className="mt-16 bg-gradient-to-r from-sage-100 to-sage-300 rounded-3xl p-10 max-w-4xl mx-auto">
           <h3 className="text-3xl font-bold text-sage-900 mb-6 text-center font-serif">
-            Web-utvikler, mentor, barista, kodelærer, pleieassistent, din neste
+            Mentor, barista, kodelærer, pleieassistent, din neste
             suksesshistorie, you name it
           </h3>
           <p className="text-neutral-700 text-center">
